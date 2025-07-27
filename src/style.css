@@ -161,6 +161,8 @@ button:hover {
 
 footer {
     display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -169,6 +171,14 @@ footer {
     padding-top: 1rem;
     padding-bottom: 1rem;
     font-family: Open Sans, sans-serif;
-    opacity: .5;
     font-size: 12px;
+}
+
+footer p {
+    opacity: .5;
+}
+footer a {
+    color: white;
+    opacity: .6;
+    font-weight: 700;
 }
