@@ -1,0 +1,11 @@
+/* Importing fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+    --bg-gradient: linear-gradient(to top left, #084363, #321015);
+    --bg-solid: #042334;
+    --header-color: #FFFF66;
+    --bg-button: #042334;
+    --border-button: linear-gradient(to top right, #084363, hsla(289, 9%, 23%, 1));
+}
