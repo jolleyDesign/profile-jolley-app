@@ -75,7 +75,7 @@ main {
     font-size: 90px;
     line-height: 110px;
     font-style: italic;
-    transition: opacity 0.3s linear;
+    transition: opacity 0.2s linear;
 }
 
 .header-array.fade-out {
